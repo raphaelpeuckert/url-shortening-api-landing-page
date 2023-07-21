@@ -1,0 +1,66 @@
+.fs-12 {
+    font-size: 1.2rem;
+}
+.fs-15 {
+    font-size: 1.5rem;
+}
+.fs-16 {
+    font-size: 1.6rem;
+}
+.fs-18 {
+    font-size: 1.8rem;
+}
+.fs-20 {
+    font-size: 2rem;
+}
+.fs-22 {
+    font-size: 2.2rem;
+}
+.fs-28 {
+    font-size: 2.2rem;
+}
+.fs-40 {
+    font-size: 4rem;
+}
+.fs-80 {
+    font-size: 8rem;
+}
+
+
+.txt-tuna {
+    color: var(--tuna);
+}
+.txt-dark-purple {
+    color: var(--dark-purple);
+}
+.txt-purple {
+    color: var(--pruple);
+}
+.txt-grey {
+    color: var(--grey);
+}
+.txt-white {
+    color: var(--white);
+}
+.txt-light-blue {
+    color: var(--light-blue);
+}
+
+.bg-tuna {
+    background-color: var(--tuna);
+}
+.bg-dark-purple {
+    background-color: var(--dark-purple);
+}
+.bg-purple {
+    background-color: var(--pruple);
+}
+.bg-grey {
+    background-color: var(--grey);
+}
+.bg-white {
+    background-color: var(--white);
+}
+.bg-light-blue {
+    background-color: var(--light-blue);
+}
