@@ -26,6 +26,14 @@
     font-size: 8rem;
 }
 
+.fw-normal {
+    font-weight: 500;
+}
+
+.fw-bold {
+    font-weight: 700;
+}
+
 
 .txt-tuna {
     color: var(--tuna);
@@ -39,8 +47,8 @@
 .txt-grey {
     color: var(--grey);
 }
-.txt-white {
-    color: var(--white);
+.txt-offwhite {
+    color: var(--offwhite);
 }
 .txt-light-blue {
     color: var(--light-blue);
@@ -58,9 +66,13 @@
 .bg-grey {
     background-color: var(--grey);
 }
-.bg-white {
-    background-color: var(--white);
+.bg-offwhite {
+    background-color: var(--offwhite);
 }
 .bg-light-blue {
     background-color: var(--light-blue);
+}
+
+.link-btn {
+    text-decoration: none;
 }
