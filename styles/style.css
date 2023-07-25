@@ -87,3 +87,36 @@ header {
     border-radius: 32px;
     padding: 12px 40px;
 }
+
+.shortening-form {
+    transform: translate(0, 50%);
+    margin: 81px auto 0 auto;
+    width: 100%;
+    max-width: 1200px;
+    background-image: url(../images/bg-shorten-desktop.svg);
+    background-size: 100%;
+    background-color: var(--dark-purple);
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    padding: 0 64px; 
+    gap: 24px;
+    border-radius: 10px;
+}
+
+.shortening-input {
+    margin: 52px 0;
+    padding: 14px 32px;
+    border: none;
+    border-radius: 10px;
+    width: 100%;
+}
+
+.shortening-btn {
+    margin: 52px 0;
+    white-space: nowrap;
+    padding: 14px 32px;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
